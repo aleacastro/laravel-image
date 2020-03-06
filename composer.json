@@ -1,5 +1,5 @@
 {
-    "name": "aleacastro/image",
+    "name": "aleacastro/laravel-image",
     "description": "Image manipulation library for Laravel 5 based on Imagine and inspired by Croppa for easy url based manipulation",
     "keywords": ["laravel","image","imagick","gd","imagine","watermark","gmagick","thumbnail"],
     "homepage": "https://github.com/aleacastro/laravel-image",
